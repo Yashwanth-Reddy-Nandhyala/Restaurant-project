@@ -1,19 +1,22 @@
 YMC- Yash Multi Cuisine Project
 It shows the menu of the restaurent
 Home Page
-![image](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/9bf06d0e-87cd-49de-83cd-cd7c5e99bd30)
+![screencapture-127-0-0-1-5502-2024-05-09-16_18_38 (1)](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/77b836aa-de55-4499-93bc-9f1b32e6922f)
+
 
 Menu
-![image](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/2b407630-4f85-4a19-9d52-1c4d43095208)
+![screencapture-127-0-0-1-5502-biryanis-html-2024-05-09-16_23_58](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/bb3928f0-21c0-4481-96f0-e7aebffeaa12)
+
 
 
 Timings
-![image](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/f74d1e56-252b-4398-8a92-08de7764f42c)
+![screencapture-127-0-0-1-5502-timings-html-2024-05-09-16_21_37](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/53bb10ba-12eb-4c69-bf5d-097b3ca76709)
 
 Contact
-![image](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/d17a883c-c208-409f-97c2-b00f08fb45c0)
+![screencapture-127-0-0-1-5502-contactus-html-2024-05-09-16_22_33](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/9f53fe3e-6342-42e6-8b97-e2e6b4940973)
 
 About
-![image](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/0b77c1b3-cb6f-4cf8-b989-af6dc289b218)
+![screencapture-127-0-0-1-5502-about-html-2024-05-09-16_23_01](https://github.com/Yashwanth-Reddy-Nandhyala/Restaurant-project/assets/165826715/633c36d0-543c-4fda-aa5d-98c57968f774)
+
 
 
